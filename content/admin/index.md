@@ -1,3 +1,4 @@
+[Microsoft_DSCR_2020_H2.txt](https://github.com/github/docs/files/6834228/Microsoft_DSCR_2020_H2.txt)
 ---
 title: Enterprise administrator documentation
 shortTitle: Enterprise administrators
